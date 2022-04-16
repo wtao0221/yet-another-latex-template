@@ -1,0 +1,1 @@
+# yet-another-latex-template
